@@ -26,7 +26,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Bachiller en Ingeniería de Sistemas y Computación** por la **Universidad Católica Santo Toribio de Mogrovejo (USAT)**.
+Soy **Ingeniero de Sistemas y Computación** por la **Universidad Católica Santo Toribio de Mogrovejo (USAT)**.
 
 Me interesa el desarrollo de software, el análisis de datos y la construcción de soluciones tecnológicas orientadas a mejorar procesos reales. He participado en proyectos relacionados con logística, gestión municipal, soporte técnico y sistemas de información, combinando desarrollo, análisis y adaptación a distintos entornos de trabajo.
 
