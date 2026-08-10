@@ -123,7 +123,7 @@ Me caracterizo por mi capacidad de aprendizaje, enfoque práctico y compromiso p
 
 ## 🎓 Formación académica
 
-**Bachiller en Ingeniería de Sistemas y Computación**  
+**Ingeniero de Sistemas y Computación**  
 Universidad Católica Santo Toribio de Mogrovejo (USAT)
 
 ---
